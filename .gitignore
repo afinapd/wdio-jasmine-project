@@ -1,0 +1,8 @@
+# JavaScript node dependencies
+/node_modules/
+
+#VS Code setting files
+.vscode/
+
+#Mac setting files
+.DS_Store
